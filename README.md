@@ -1,4 +1,4 @@
-# SightOfBlind 👁️🧠🎙️
+# SightOfBlind
 
 **SightOfBlind** is a real-time assistive system designed to support blind and visually impaired individuals by enabling object-based indoor navigation using voice commands and spoken feedback. It is fully offline, wearable, and powered by edge AI using a Raspberry Pi 5 and YOLOv11 object detection.
 
@@ -50,7 +50,16 @@ Visually impaired individuals face constant challenges in navigating unfamiliar 
 SightOfBlind/
 ├── models/              # YOLOv11n TFLite models (float16 quantized)
 ├── utils/               # Direction logic, preprocessing, helpers
-├── main.py              # Main script for system execution
+├── SightOfBlind.py      # Main script for system execution
 ├── requirements.txt     # Python dependencies
 ├── media/               # Images, architecture diagrams, or demos
 └── README.md            # Project overview
+
+---
+
+##🚀 Setup & Execution
+
+-1. Clone the Repository
+bash
+Copy
+Edit
