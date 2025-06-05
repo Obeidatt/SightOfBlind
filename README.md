@@ -83,6 +83,15 @@ python3 SightOfBlind.py
 
 Tested in classrooms, hallways, and dorm environments with high voice command accuracy and object recognition robustness.
 
+## 📚 Research Basis
+This system is based on a graduation project submitted to:
+Yarmouk University
+Faculty of Computer Science and Information Technology
+Department of Information Systems
+Semester: Second 2024/2025
+Students: Anas Obeidat, Momen Bani-Ali, Omar Al-Rashdan
+Supervisor: Dr. Enas Alikhashashneh
+
 ## 🔒 License
 
 This repository is protected under intellectual property rights.
