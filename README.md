@@ -58,8 +58,27 @@ SightOfBlind/
 ---
 ## 🚀 Setup & Execution
 
-**1. Clone the Repository
+1. Clone the Repository
 ```bash
 git clone https://github.com/Obeidatt/SightOfBlind.git
 cd SightOfBlind
 ```
+2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+3. Run the Application
+```bash
+python3 main.py
+```
+- ✅ Make sure Bluetooth is connected and Pi Camera is enabled.
+  
+## 📊 Performance Highlights
+
+- ✅ **mAP@0.5**: 89.3%
+- ✅ **Precision**: 90%
+- ✅ **Recall**: 86%
+- ✅ **FPS**: 8–12 on Raspberry Pi 5 (TFLite, float16)
+- ✅ **Command-to-Feedback Time**: ~2 sec
+
+Tested in classrooms, hallways, and dorm environments with high voice command accuracy and object recognition robustness.
