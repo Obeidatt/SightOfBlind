@@ -56,9 +56,9 @@ SightOfBlind/
 └── README.md            # Project overview
 ```
 ---
-##🚀 Setup & Execution
+## 🚀 Setup & Execution
 
-**1. Clone the Repository
+** 1. Clone the Repository
 ```bash
 git clone https://github.com/Obeidatt/SightOfBlind.git
 cd SightOfBlind
