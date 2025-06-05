@@ -54,12 +54,13 @@ SightOfBlind/
 ├── requirements.txt     # Python dependencies
 ├── media/               # Images, architecture diagrams, or demos
 └── README.md            # Project overview
-
+```
 ---
 
 ##🚀 Setup & Execution
 
--1. Clone the Repository
-bash
-Copy
-Edit
+**1. Clone the Repository
+```bash
+git clone https://github.com/your-username/SightOfBlind.git
+cd SightOfBlind
+```
