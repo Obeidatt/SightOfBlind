@@ -69,7 +69,7 @@ pip install -r requirements.txt
 ```
 3. Run the Application
 ```bash
-python3 main.py
+python3 SightOfBlind.py
 ```
 - ✅ Make sure Bluetooth is connected and Pi Camera is enabled.
   
@@ -90,7 +90,7 @@ This repository is protected under intellectual property rights.
 **All rights reserved © 2025 by the authors.**  
 No part of this codebase may be copied, modified, distributed, or used in other projects without **explicit written permission**.
 
-Contact: [@Obeidatt](https://github.com/Obeidatt) or [MyEmail](obeiidattt@gmail.com).
+Contact: [@Obeidatt](https://github.com/Obeidatt) or Email: obeiidattt@gmail.com.
 
 ## 📬 Contact
 
