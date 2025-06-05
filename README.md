@@ -48,12 +48,12 @@ Visually impaired individuals face constant challenges in navigating unfamiliar 
 
 ```bash
 SightOfBlind/
-├── models/              # YOLOv11n TFLite models (float16 quantized)
-├── utils/               # Direction logic, preprocessing, helpers
-├── SightOfBlind.py      # Main script for system execution
-├── requirements.txt     # Python dependencies
-├── media/               # Images, architecture diagrams, or demos
-└── README.md            # Project overview
+├── models/               
+├── docs/               
+├── SightOfBlind.py       
+├── requirements.txt      
+├── media/                
+└── README.md
 ```
 ---
 ## 🚀 Setup & Execution
