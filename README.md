@@ -28,7 +28,7 @@ Visually impaired individuals face constant challenges in navigating unfamiliar 
 | Hardware           | Raspberry Pi 5, USB Webcam, AirPods |
 | Object Detection   | YOLOv11n (custom & pre-trained) |
 | Voice Recognition  | SpeechRecognition (Google STT) |
-| Audio Feedback     | gTTS (Text-to-Speech)           |
+| Audio Feedback     |  pyttsx3 (Text-to-Speech)      |
 | Programming        | Python 3                        |
 | Vision Processing  | OpenCV                          |
 
