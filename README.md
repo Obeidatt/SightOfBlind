@@ -91,7 +91,7 @@ Department of Information Systems
 Semester: Second 2024/2025  
 Students: Anas Obeidat, Momen Bani-Ali, Omar Al-Rashdan  
 Supervisor: Dr. Enas Alikhashashneh  
-> **📄 Full project report available in /docs.
+> 📄 Full project report available in /docs.
 ## 🔒 License
 
 This repository is protected under intellectual property rights.
