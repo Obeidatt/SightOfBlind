@@ -1,31 +1,56 @@
-# SightOfBlind
+# SightOfBlind 👁️🧠🎙️
 
-**SightOfBlind** is an AI-powered assistive system for blind and visually impaired individuals. It provides real-time object recognition and environment narration using a camera, speaker, and lightweight deep learning models.
+**SightOfBlind** is a real-time assistive system designed to support blind and visually impaired individuals by enabling object-based indoor navigation using voice commands and spoken feedback. It is fully offline, wearable, and powered by edge AI using a Raspberry Pi 5 and YOLOv11 object detection.
 
-## 🚀 Features
+---
 
-- 🎯 Real-time object detection
-- 🧠 TensorFlow Lite optimized models
-- 🔊 Voice narration using pyttsx3
-- 📷 Raspberry Pi camera support
-- 💡 Low-power, edge-based processing
+## 🎯 Project Overview
 
-## 🛠️ Tech Stack
+Visually impaired individuals face constant challenges in navigating unfamiliar environments. SightOfBlind aims to restore autonomy by allowing users to say commands like “Where is the door?” or “Find the chair,” and receive real-time verbal guidance based on AI-powered object recognition and direction awareness.
 
-- Raspberry Pi 4
-- Python 3.x
-- TensorFlow Lite
-- OpenCV
-- pyttsx3 (offline text-to-speech)
-- YOLOv5 / MobileNetV2 models
+---
+
+## ⚙️ Key Features
+
+- 🎙️ Natural voice command interface via Speech-to-Text (STT)
+- 📷 Real-time indoor object detection using YOLOv11n (TFLite)
+- 🔊 Audio navigation feedback using Google Text-to-Speech (gTTS)
+- ⚡ Runs completely offline on Raspberry Pi 5
+- 🎒 Compact, wearable, and power-efficient design
+- 💡 Directional logic: tells the user if the object is “in front,” “to your right,” etc.
+
+---
+
+## 🧠 Technologies Used
+
+| Component           | Technology                     |
+|--------------------|----------------------------------|
+| Hardware           | Raspberry Pi 5, USB Webcam, AirPods |
+| Object Detection   | YOLOv11n (custom & pre-trained) |
+| Voice Recognition  | SpeechRecognition (Google STT) |
+| Audio Feedback     | gTTS (Text-to-Speech)           |
+| Programming        | Python 3                        |
+| Vision Processing  | OpenCV                          |
+
+---
+
+## 🛠 Hardware Architecture
+
+- **Raspberry Pi 5 (8GB)** – main processor
+- **USB Webcam** – captures front-facing visual input
+- **AirPods (Mic + Audio)** – for voice command and feedback
+- **Cooling Fan + Protective Case** – ensures thermal stability
+- **Portable Power Bank** – for mobile, wearable operation
+
+---
 
 ## 📁 Project Structure
 
 ```bash
 SightOfBlind/
-│
-├── model/               # TFLite models
-├── utils/               # Helper functions
-├── main.py              # Main execution file
+├── models/              # YOLOv11n TFLite models (float16 quantized)
+├── utils/               # Direction logic, preprocessing, helpers
+├── main.py              # Main script for system execution
 ├── requirements.txt     # Python dependencies
-└── README.md
+├── media/               # Images, architecture diagrams, or demos
+└── README.md            # Project overview
