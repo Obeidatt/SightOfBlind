@@ -17,7 +17,7 @@ Visually impaired individuals face constant challenges in navigating unfamiliar 
 - 🔊 Audio navigation feedback using Text-to-Speech (pyttsx3)
 - ⚡ Runs completely offline on Raspberry Pi 5
 - 🎒 Compact, wearable, and power-efficient design
-- 💡 Directional logic: tells the user if the object is “in front,” “to your right,” etc.
+- 💡 Directional logic: tells the user if the object is “in front,” “to your right,” etc how many steps away from you and the size of object.
 
 ---
 
