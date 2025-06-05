@@ -58,7 +58,7 @@ SightOfBlind/
 ---
 ## 🚀 Setup & Execution
 
-** 1. Clone the Repository
+**1. Clone the Repository
 ```bash
 git clone https://github.com/Obeidatt/SightOfBlind.git
 cd SightOfBlind
