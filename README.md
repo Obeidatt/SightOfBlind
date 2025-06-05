@@ -14,7 +14,7 @@ Visually impaired individuals face constant challenges in navigating unfamiliar 
 
 - 🎙️ Natural voice command interface via Speech-to-Text (STT)
 - 📷 Real-time indoor object detection using YOLOv11n (TFLite)
-- 🔊 Audio navigation feedback using Google Text-to-Speech (gTTS)
+- 🔊 Audio navigation feedback using Text-to-Speech (pyttsx3)
 - ⚡ Runs completely offline on Raspberry Pi 5
 - 🎒 Compact, wearable, and power-efficient design
 - 💡 Directional logic: tells the user if the object is “in front,” “to your right,” etc.
