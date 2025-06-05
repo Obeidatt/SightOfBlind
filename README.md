@@ -82,3 +82,21 @@ python3 main.py
 - ✅ **Command-to-Feedback Time**: ~2 sec
 
 Tested in classrooms, hallways, and dorm environments with high voice command accuracy and object recognition robustness.
+
+## 🔒 License
+
+This repository is protected under intellectual property rights.
+
+**All rights reserved © 2025 by the authors.**  
+No part of this codebase may be copied, modified, distributed, or used in other projects without **explicit written permission**.
+
+Contact: [@Obeidatt](https://github.com/Obeidatt) or [MyEmail](obeiidattt@gmail.com).
+
+## 📬 Contact
+
+For access requests, academic inquiries, or demo opportunities:
+
+**Anas Emad Falah Obeidat**  
+📧 Email: *obeiidattt@gmail.com*  
+🔗 GitHub: [github.com/Obeidatt](https://github.com/Obeidatt)
+
